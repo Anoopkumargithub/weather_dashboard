@@ -74,3 +74,7 @@ cd weather_dashboard
 1. Open your browser and navigate to `http://localhost:8080`.
 2. Enter a city name in the search bar and click "Search".
 3. The weather information for the specified city will be displayed.
+
+## Live Demo
+
+The Weather Dashboard is deployed and can be accessed at: [https://weather-dashboard-three-eta.vercel.app/](https://weather-dashboard-three-eta.vercel.app/)
